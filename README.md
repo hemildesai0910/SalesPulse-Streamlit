@@ -67,13 +67,13 @@ The project repository is organized as follows:
 Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <ins><b>©2025 Hemil Desai. All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/hemil-desai-71a711255/)</b>
 - <b>[Medium](https://medium.com/@hemilmanmohak3112)</b> 
 - <b>[New Kaggle](https://www.kaggle.com/desaihemildineshbhai)</b> 
 
 ## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Hemil_Desai](hemildesai98@gmail.com). We would love to hear from you!
 
 
 
