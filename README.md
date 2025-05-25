@@ -74,7 +74,7 @@ Due to the extensive time invested in code development and in consideration of p
 - <b>[New Kaggle](https://www.kaggle.com/desaihemildineshbhai)</b> 
 
 ## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:hemildesai98@gmail.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Hemil Desai](mailto:hemildesai98@gmail.com). We would love to hear from you!
 
 
 
