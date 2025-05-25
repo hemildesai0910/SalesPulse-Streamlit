@@ -22,16 +22,17 @@
 Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis.
 
 ## Deployment
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salespulse-app-hemildesai36.streamlit.app/)
 
 
+## 🌟 Dashboard Preview
 
-## Preview
-![3dash](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit/assets/66141195/ca77655e-b101-44e9-b5e7-fcdbf5aae388)
+📷 Here’s a glimpse of the interactive dashboard:
 
-
-## Dataset
-- Stored in cloud on personal <a href="https://www.linkedin.com/in/tusharaggarwalinseec/">![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)</a> on POSTGRSQL server
+![Dashboard Screenshot](https://github.com/hemildesai0910/SalesPulse-Streamlit/blob/main/Images/Screenshot%202025-05-25%20184720.png)
+![Dashboard Screenshot](https://github.com/hemildesai0910/SalesPulse-Streamlit/blob/main/Images/Screenshot%202025-05-25%20184944.png)
+![Dashboard Screenshot](https://github.com/hemildesai0910/SalesPulse-Streamlit/blob/main/Images/Screenshot%202025-05-25%20184953.png)
+![Dashboard Screenshot](https://github.com/hemildesai0910/SalesPulse-Streamlit/blob/main/Images/Screenshot%202025-05-25%20185012.png)
 
 ## Features
 
@@ -67,14 +68,13 @@ The project repository is organized as follows:
 Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <ins><b>©2025 Hemil Desai. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/hemil-desai-71a711255/)</b>
+- <b>[Medium](https://medium.com/@hemilmanmohak3112)</b> 
+- <b>[New Kaggle](https://www.kaggle.com/desaihemildineshbhai)</b> 
 
 ## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:hemildesai98@gmail.com). We would love to hear from you!
 
 
 
